@@ -13,13 +13,7 @@ const order = (words) => {
 }
 
 const wordPos = (word) => {
-  for (let i = 0; i < word.length; i++) {
-    if (!isNaN(word[i])) {
-      return parseInt(word[i])
-    }
-  }
-
-  return 0;
+  return parseInt(word.match(/\d/)[0])
 }
 
 module.exports = {

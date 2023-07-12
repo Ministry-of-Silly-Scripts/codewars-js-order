@@ -55,3 +55,4 @@ TODO:
 - it should return "Word1 Word2" for input "Word2 Word1" ✅
 - refactored second loop: use `join` ✅
 - it should return "Fo1r the2 g3ood 4of th5e pe6ople" for input "4of Fo1r pe6ople g3ood th5e the2" ✅
+- refactored `wordPos` to use match ✅
