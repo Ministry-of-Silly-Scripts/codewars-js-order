@@ -1,8 +1,8 @@
-# XXXXX kata 
+# Your order, please kata 
 
-XXXXX kata performed by to practice TDD for the Jaguars training at IBM
+Your order, please kata performed by to practice TDD for the Jaguars training at IBM
 
-[XXXXXX on CodeWars](https://www.codewars.com/kata/)
+[Your order, please on CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
 ## Prerequisites
 

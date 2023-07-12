@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const order = () => true;
 
 module.exports = {
-  placeholder,
+  order,
 };
