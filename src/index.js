@@ -1,6 +1,6 @@
 const order = (words) => {
   if (words.length === 0) return ""
-  return "Word1";
+  return words;
 }
 
 module.exports = {

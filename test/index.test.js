@@ -14,4 +14,8 @@ describe('order', () => {
   it('should return "Word1" for input "Word1"', () => {
     expect(order("Word1")).toBe("Word1");
   });
+
+  it('should return "Word1 Word2" for input "Word1 Word2"', () => {
+    expect(order("Word1 Word2")).toBe("Word1 Word2");
+  });
 });
