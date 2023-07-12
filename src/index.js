@@ -9,12 +9,7 @@ const order = (words) => {
     out_array[pos] = words_split[i]
   }
 
-  let out_string = ""
-  for (let i = 0; i < out_array.length; i++) {
-    out_string += out_array[i] + " "
-  }
-
-  return out_string.trimEnd();
+  return out_array.join(" ") 
 }
 
 const wordPos = (word) => {

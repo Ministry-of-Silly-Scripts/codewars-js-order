@@ -53,3 +53,4 @@ TODO:
 - `wordPos`:
     - it should return the number embedded in the string as integer ✅
 - it should return "Word1 Word2" for input "Word2 Word1" ✅
+- refactored second loop: use `join` ✅
