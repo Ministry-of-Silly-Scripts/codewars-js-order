@@ -6,3 +6,8 @@ describe('the order canary spec', () => {
   });
 });
 
+describe('order', () => {
+  it('should return "" for input ""', () => {
+    expect(order("")).toBe("");
+  });
+});

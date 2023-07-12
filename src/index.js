@@ -1,4 +1,6 @@
-const order = () => true;
+const order = (words) => {
+  return "";
+}
 
 module.exports = {
   order,
