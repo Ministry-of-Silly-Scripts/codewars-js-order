@@ -10,4 +10,8 @@ describe('order', () => {
   it('should return "" for input ""', () => {
     expect(order("")).toBe("");
   });
+
+  it('should return "Word1" for input "Word1"', () => {
+    expect(order("Word1")).toBe("Word1");
+  });
 });

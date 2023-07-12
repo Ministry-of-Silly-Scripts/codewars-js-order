@@ -43,3 +43,4 @@ TODO:
 - domain discussion ✅
 - perform the 'canary' test just to check if the structure works construction ✅
 - it should return "" for input "" ✅
+- it should return "Word1" for input "Word1" ✅
