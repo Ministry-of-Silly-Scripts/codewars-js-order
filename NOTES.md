@@ -17,11 +17,11 @@ Examples
 
 ## Domain Discussion
 
-- input: array of strings (can be empty)
-- output: array of strings (can be empty)
+- input: string (can be empty)
+- output: string (can be empty)
 - Maximum array length is 9
 - Each word has a number "hidden" in it (1 to 9). 
-- The number represents the position of the word in the array (starting with 1)
+- The number represents the position of the word in the string (starting with 1)
 - Return the input string reorganized using the embedded numbers in each word.
 
 ---
